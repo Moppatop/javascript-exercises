@@ -7,7 +7,6 @@ const reverseString = function(strToReverse) {
     */
    return revString;
 };
-console.log(reverseString("i am stupid"));
 
 // Do not edit below this line
 module.exports = reverseString;
